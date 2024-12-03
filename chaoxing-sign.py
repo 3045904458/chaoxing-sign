@@ -15,8 +15,8 @@ from lxml import etree
 import sys
  
 #用户区开始
-name=""#用户名，必填
-passwd=""#密码，必填
+name="18188104835"#用户名，必填
+passwd="Zhangcl421"#密码，必填
 itime="4"#基础延时
 token=''#push+ token，选填
 #用户区结束
